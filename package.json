@@ -1,0 +1,29 @@
+{
+  "name": "auroral",
+  "version": "0.1.0",
+  "description": "Auroral is a set of beautiful animated gradients, that resemble northern lights. Made with pure css.",
+  "main": "./css/auroral.css",
+  "author": "Anna Migas <amjmigas@gmail.com>",
+  "keywords": [
+    "gradients",
+    "css",
+    "sass",
+    "scss",
+    "animations",
+    "aurora"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LunarLogic/auroral.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "run-sequence": "^1.1.5"
+  }
+}

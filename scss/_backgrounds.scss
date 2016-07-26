@@ -1,0 +1,12 @@
+.auroral-agrabah  {
+  @include auroral-container();
+  @include auroral-animation();
+  background: linear-gradient( -20deg, rgba(26, 0, 192, 0.4) 40%, rgba(215, 0, 67, 0.4)),
+              linear-gradient( 60deg, rgba(26, 0, 192, 1) 10%, rgba(215, 0, 67, 1));
+}
+
+.auroral-northern {
+  @include auroral-container();
+  @include auroral-animation(northern, 5s);
+  background: linear-gradient(10deg, rgba(161,217,180, 1) 20%, rgba(50, 152, 138, 1) 40%, rgba(0, 14, 60, 1) 70%);
+}

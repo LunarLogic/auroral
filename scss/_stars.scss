@@ -1,0 +1,27 @@
+$star-number: 100;
+$current-stars: ;
+
+.stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 1px;
+  height: 1px;
+  border-radius: 50%;
+  background: white;
+
+  @while $star-number > 0 {
+    $current-stars: $current-stars
+                    + (random(100) +vw) (random(50) +vh) 0 (random(2) +px) rgba(255,255,255,.7)
+                    + unquote(", ");
+
+    @if $star-number == 1 {
+      $current-stars: $current-stars
+                      + (random(100) +vw) (random(50) +vh) 0 0 rgba(255,255,255,.9);
+      box-shadow: $current-stars;
+    }
+
+    $star-number: $star-number - 1;
+  }
+}

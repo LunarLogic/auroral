@@ -1,0 +1,61 @@
+@mixin auroral-animation($name: aura, $time: 2s) {
+  animation-name: $name;
+  animation-duration: $time;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes aura {
+
+  0% {
+    transform: rotate(20deg);
+  }
+
+  20% {
+    transform: translateY(100px) rotate(1deg);
+  }
+
+  40% {
+    transform: rotate(-15deg);
+  }
+
+  60% {
+    transform: rotate(-1deg);
+  }
+
+  80% {
+   transform: translateY(-10px) rotate(16deg);
+  }
+
+  100% {
+    transform: rotate(1deg);
+  }
+}
+
+@keyframes northern {
+
+  0% {
+    transform: translate(5%, -2%);
+  }
+
+  25% {
+    transform: translate(10%, 7%);
+  }
+
+  40% {
+    transform: rotate(-10deg);
+  }
+
+  60% {
+    transform: translate(7%, -2%);
+  }
+
+  85% {
+    transform: translate(10%, 3%) rotate(15deg);
+  }
+
+  100% {
+    transform: none;
+  }
+}
