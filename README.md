@@ -45,7 +45,7 @@ Demo will be here shortly
 
 #Backgrounds
 
-Currently available backgrounds (they names are matching class names to be used in your container):
+Currently available backgrounds (class names to be used in your container):
 
   - auroral-northern (Northern Lights style),
   - auroral-agrabah (Inspired by the colors of the night sky in [Aladdin](http://www.imdb.com/title/tt0103639/) :D)
