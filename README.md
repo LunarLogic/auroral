@@ -36,9 +36,8 @@ Demo will be here shortly
 
     ```css
     .your-container {
+      display: block; // if it is not a block element
       position: relative;
-      width: 100vw;
-      height: 100vh;
       overflow: hidden;
     }
     ```
