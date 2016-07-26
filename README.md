@@ -42,6 +42,20 @@ Demo will be here shortly
     }
     ```
 
+# Stars!
+
+What is a night sky without the stars? Add them by appending an element with the ***auroral-stars*** class right after the auroral container:
+
+    ```html
+    <section class="your-container">
+      <div class="auroral-northern"></div>
+      <i class="auroral-stars"></i>
+    </section>
+    ```
+
+If you know how to use [Sass](http://sass-lang.com/) you can play with the ***$star-number*** variable, to make sure there is a right amount of them! It sits in [_stars.scss partial](https://github.com/LunarLogic/auroral/blob/master/scss/_stars.scss).
+
+
 #Backgrounds
 
 Currently available backgrounds (class names to be used in your container):
