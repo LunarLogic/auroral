@@ -17,14 +17,14 @@
   background: linear-gradient(10deg, rgba(183, 168, 65, 1) 20%, rgba(161, 0, 106, 1) 40%, rgba(55, 29, 64, 1) 60%);
 }
 
-.aurora-northern-dimmed {
+.auroral-northern-dimmed {
   @include auroral-container();
   @include auroral-animation(northern, 10s);
   background: linear-gradient(-45deg, rgba(237, 124, 148, .3) 20%, rgba(35, 82, 154, .3) 70%),
               linear-gradient(10deg, rgba(145, 107, 99, 1) 7%, rgba(184, 186, 111, 1) 20%, rgba(237, 124, 148, 1) 40%, rgba(35, 82, 154, 1) 60%);
 }
 
-.aurora-northern-dusk {
+.auroral-northern-dusk {
   @include auroral-container();
   @include auroral-animation(northern, 15s);
   background: linear-gradient(-35deg, rgba(145, 107, 99, .5) 15%, rgba(184, 186, 111, .5) 25%, transparent 60%),
