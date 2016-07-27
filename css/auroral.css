@@ -93,7 +93,7 @@ body {
   height: 1px;
   border-radius: 50%;
   background: white;
-  box-shadow: 37vw 27vh 0 1px rgba(255, 255, 255, 0.7), 25vw 14vh 0 2px rgba(255, 255, 255, 0.7), 39vw 9vh 0 1px rgba(255, 255, 255, 0.7), 25vw 8vh 0 2px rgba(255, 255, 255, 0.7), 74vw 24vh 0 1px rgba(255, 255, 255, 0.7), 5vw 50vh 0 1px rgba(255, 255, 255, 0.7), 5vw 34vh 0 1px rgba(255, 255, 255, 0.7), 11vw 26vh 0 2px rgba(255, 255, 255, 0.7), 51vw 6vh 0 1px rgba(255, 255, 255, 0.7), 77vw 35vh 0 2px rgba(255, 255, 255, 0.7), 93vw 44vh 0 1px rgba(255, 255, 255, 0.7), 45vw 8vh 0 1px rgba(255, 255, 255, 0.7), 2vw 37vh 0 2px rgba(255, 255, 255, 0.7), 18vw 40vh 0 2px rgba(255, 255, 255, 0.7), 34vw 46vh 0 2px rgba(255, 255, 255, 0.7), 49vw 15vh 0 2px rgba(255, 255, 255, 0.7), 56vw 35vh 0 2px rgba(255, 255, 255, 0.7), 70vw 32vh 0 2px rgba(255, 255, 255, 0.7), 91vw 20vh 0 2px rgba(255, 255, 255, 0.7), 14vw 48vh 0 2px rgba(255, 255, 255, 0.7), 50vw 35vh 0 2px rgba(255, 255, 255, 0.7), 40vw 48vh 0 2px rgba(255, 255, 255, 0.7), 80vw 48vh 0 2px rgba(255, 255, 255, 0.7), 41vw 34vh 0 2px rgba(255, 255, 255, 0.7), 45vw 4vh 0 2px rgba(255, 255, 255, 0.7), 76vw 27vh 0 2px rgba(255, 255, 255, 0.7), 26vw 17vh 0 2px rgba(255, 255, 255, 0.7), 47vw 7vh 0 2px rgba(255, 255, 255, 0.7), 17vw 18vh 0 2px rgba(255, 255, 255, 0.7), 42vw 25vh 0 2px rgba(255, 255, 255, 0.7), 15vw 41vh 0 1px rgba(255, 255, 255, 0.7), 81vw 10vh 0 2px rgba(255, 255, 255, 0.7), 85vw 49vh 0 2px rgba(255, 255, 255, 0.7), 100vw 44vh 0 1px rgba(255, 255, 255, 0.7), 89vw 34vh 0 1px rgba(255, 255, 255, 0.7), 69vw 49vh 0 2px rgba(255, 255, 255, 0.7), 83vw 27vh 0 1px rgba(255, 255, 255, 0.7), 10vw 26vh 0 1px rgba(255, 255, 255, 0.7), 90vw 24vh 0 2px rgba(255, 255, 255, 0.7), 32vw 13vh 0 1px rgba(255, 255, 255, 0.7), 91vw 36vh 0 1px rgba(255, 255, 255, 0.7), 73vw 2vh 0 1px rgba(255, 255, 255, 0.7), 64vw 15vh 0 1px rgba(255, 255, 255, 0.7), 11vw 22vh 0 1px rgba(255, 255, 255, 0.7), 5vw 10vh 0 1px rgba(255, 255, 255, 0.7), 31vw 8vh 0 1px rgba(255, 255, 255, 0.7), 39vw 41vh 0 2px rgba(255, 255, 255, 0.7), 25vw 14vh 0 2px rgba(255, 255, 255, 0.7), 84vw 40vh 0 2px rgba(255, 255, 255, 0.7), 8vw 36vh 0 1px rgba(255, 255, 255, 0.7), 62vw 50vh 0 2px rgba(255, 255, 255, 0.7), 32vw 27vh 0 2px rgba(255, 255, 255, 0.7), 98vw 4vh 0 2px rgba(255, 255, 255, 0.7), 89vw 39vh 0 1px rgba(255, 255, 255, 0.7), 28vw 35vh 0 1px rgba(255, 255, 255, 0.7), 79vw 33vh 0 2px rgba(255, 255, 255, 0.7), 31vw 9vh 0 2px rgba(255, 255, 255, 0.7), 87vw 3vh 0 1px rgba(255, 255, 255, 0.7), 51vw 26vh 0 1px rgba(255, 255, 255, 0.7), 78vw 44vh 0 1px rgba(255, 255, 255, 0.7), 38vw 36vh 0 1px rgba(255, 255, 255, 0.7), 18vw 40vh 0 1px rgba(255, 255, 255, 0.7), 26vw 46vh 0 1px rgba(255, 255, 255, 0.7), 71vw 16vh 0 2px rgba(255, 255, 255, 0.7), 29vw 35vh 0 2px rgba(255, 255, 255, 0.7), 8vw 7vh 0 1px rgba(255, 255, 255, 0.7), 61vw 17vh 0 1px rgba(255, 255, 255, 0.7), 13vw 4vh 0 1px rgba(255, 255, 255, 0.7), 38vw 13vh 0 1px rgba(255, 255, 255, 0.7), 35vw 21vh 0 1px rgba(255, 255, 255, 0.7), 98vw 43vh 0 2px rgba(255, 255, 255, 0.7), 95vw 9vh 0 2px rgba(255, 255, 255, 0.7), 33vw 47vh 0 2px rgba(255, 255, 255, 0.7), 11vw 45vh 0 2px rgba(255, 255, 255, 0.7), 23vw 22vh 0 2px rgba(255, 255, 255, 0.7), 94vw 16vh 0 1px rgba(255, 255, 255, 0.7), 17vw 29vh 0 2px rgba(255, 255, 255, 0.7), 67vw 7vh 0 1px rgba(255, 255, 255, 0.7), 55vw 38vh 0 2px rgba(255, 255, 255, 0.7), 41vw 48vh 0 1px rgba(255, 255, 255, 0.7), 59vw 24vh 0 2px rgba(255, 255, 255, 0.7), 75vw 15vh 0 1px rgba(255, 255, 255, 0.7), 82vw 46vh 0 2px rgba(255, 255, 255, 0.7), 66vw 9vh 0 2px rgba(255, 255, 255, 0.7), 29vw 42vh 0 2px rgba(255, 255, 255, 0.7), 16vw 19vh 0 1px rgba(255, 255, 255, 0.7), 46vw 1vh 0 1px rgba(255, 255, 255, 0.7), 62vw 12vh 0 2px rgba(255, 255, 255, 0.7), 28vw 48vh 0 2px rgba(255, 255, 255, 0.7), 86vw 20vh 0 1px rgba(255, 255, 255, 0.7), 45vw 27vh 0 1px rgba(255, 255, 255, 0.7), 64vw 47vh 0 2px rgba(255, 255, 255, 0.7), 94vw 48vh 0 2px rgba(255, 255, 255, 0.7), 86vw 46vh 0 2px rgba(255, 255, 255, 0.7), 31vw 35vh 0 1px rgba(255, 255, 255, 0.7), 62vw 20vh 0 2px rgba(255, 255, 255, 0.7), 92vw 6vh 0 1px rgba(255, 255, 255, 0.7), 26vw 1vh 0 1px rgba(255, 255, 255, 0.7), 46vw 18vh 0 2px rgba(255, 255, 255, 0.7), 1vw 23vh 0 2px rgba(255, 255, 255, 0.7), 15vw 45vh 0 0 rgba(255, 255, 255, 0.9);
+  box-shadow: 38vw 6vh 0 2px rgba(255, 255, 255, 0.7), 45vw 19vh 0 2px rgba(255, 255, 255, 0.7), 50vw 8vh 0 1px rgba(255, 255, 255, 0.7), 40vw 35vh 0 2px rgba(255, 255, 255, 0.7), 86vw 16vh 0 1px rgba(255, 255, 255, 0.7), 93vw 3vh 0 1px rgba(255, 255, 255, 0.7), 61vw 48vh 0 1px rgba(255, 255, 255, 0.7), 70vw 36vh 0 1px rgba(255, 255, 255, 0.7), 32vw 22vh 0 2px rgba(255, 255, 255, 0.7), 62vw 26vh 0 1px rgba(255, 255, 255, 0.7), 19vw 29vh 0 1px rgba(255, 255, 255, 0.7), 12vw 36vh 0 2px rgba(255, 255, 255, 0.7), 93vw 16vh 0 1px rgba(255, 255, 255, 0.7), 29vw 49vh 0 2px rgba(255, 255, 255, 0.7), 86vw 23vh 0 1px rgba(255, 255, 255, 0.7), 20vw 45vh 0 1px rgba(255, 255, 255, 0.7), 100vw 2vh 0 1px rgba(255, 255, 255, 0.7), 90vw 10vh 0 1px rgba(255, 255, 255, 0.7), 88vw 15vh 0 1px rgba(255, 255, 255, 0.7), 83vw 5vh 0 2px rgba(255, 255, 255, 0.7), 17vw 35vh 0 2px rgba(255, 255, 255, 0.7), 2vw 23vh 0 1px rgba(255, 255, 255, 0.7), 38vw 19vh 0 1px rgba(255, 255, 255, 0.7), 38vw 41vh 0 2px rgba(255, 255, 255, 0.7), 50vw 28vh 0 2px rgba(255, 255, 255, 0.7), 5vw 42vh 0 1px rgba(255, 255, 255, 0.7), 68vw 13vh 0 2px rgba(255, 255, 255, 0.7), 69vw 50vh 0 1px rgba(255, 255, 255, 0.7), 51vw 21vh 0 2px rgba(255, 255, 255, 0.7), 84vw 45vh 0 1px rgba(255, 255, 255, 0.7), 38vw 29vh 0 2px rgba(255, 255, 255, 0.7), 23vw 2vh 0 2px rgba(255, 255, 255, 0.7), 97vw 17vh 0 1px rgba(255, 255, 255, 0.7), 87vw 22vh 0 1px rgba(255, 255, 255, 0.7), 93vw 7vh 0 2px rgba(255, 255, 255, 0.7), 19vw 6vh 0 1px rgba(255, 255, 255, 0.7), 41vw 32vh 0 2px rgba(255, 255, 255, 0.7), 80vw 34vh 0 2px rgba(255, 255, 255, 0.7), 75vw 16vh 0 1px rgba(255, 255, 255, 0.7), 1vw 28vh 0 1px rgba(255, 255, 255, 0.7), 30vw 6vh 0 2px rgba(255, 255, 255, 0.7), 93vw 10vh 0 1px rgba(255, 255, 255, 0.7), 99vw 5vh 0 2px rgba(255, 255, 255, 0.7), 33vw 32vh 0 1px rgba(255, 255, 255, 0.7), 39vw 6vh 0 2px rgba(255, 255, 255, 0.7), 4vw 47vh 0 2px rgba(255, 255, 255, 0.7), 13vw 8vh 0 2px rgba(255, 255, 255, 0.7), 20vw 45vh 0 1px rgba(255, 255, 255, 0.7), 76vw 35vh 0 1px rgba(255, 255, 255, 0.7), 79vw 46vh 0 2px rgba(255, 255, 255, 0.7), 20vw 24vh 0 1px rgba(255, 255, 255, 0.7), 46vw 47vh 0 1px rgba(255, 255, 255, 0.7), 75vw 17vh 0 2px rgba(255, 255, 255, 0.7), 91vw 20vh 0 2px rgba(255, 255, 255, 0.7), 65vw 34vh 0 2px rgba(255, 255, 255, 0.7), 11vw 18vh 0 2px rgba(255, 255, 255, 0.7), 10vw 46vh 0 2px rgba(255, 255, 255, 0.7), 51vw 4vh 0 2px rgba(255, 255, 255, 0.7), 48vw 13vh 0 2px rgba(255, 255, 255, 0.7), 52vw 14vh 0 2px rgba(255, 255, 255, 0.7), 48vw 30vh 0 2px rgba(255, 255, 255, 0.7), 27vw 4vh 0 1px rgba(255, 255, 255, 0.7), 35vw 18vh 0 1px rgba(255, 255, 255, 0.7), 52vw 21vh 0 1px rgba(255, 255, 255, 0.7), 21vw 4vh 0 1px rgba(255, 255, 255, 0.7), 37vw 20vh 0 2px rgba(255, 255, 255, 0.7), 84vw 29vh 0 2px rgba(255, 255, 255, 0.7), 94vw 20vh 0 2px rgba(255, 255, 255, 0.7), 83vw 5vh 0 2px rgba(255, 255, 255, 0.7), 64vw 13vh 0 1px rgba(255, 255, 255, 0.7), 36vw 32vh 0 2px rgba(255, 255, 255, 0.7), 82vw 13vh 0 2px rgba(255, 255, 255, 0.7), 9vw 21vh 0 2px rgba(255, 255, 255, 0.7), 83vw 23vh 0 1px rgba(255, 255, 255, 0.7), 75vw 39vh 0 1px rgba(255, 255, 255, 0.7), 33vw 20vh 0 2px rgba(255, 255, 255, 0.7), 89vw 45vh 0 1px rgba(255, 255, 255, 0.7), 5vw 24vh 0 2px rgba(255, 255, 255, 0.7), 15vw 28vh 0 2px rgba(255, 255, 255, 0.7), 65vw 25vh 0 1px rgba(255, 255, 255, 0.7), 70vw 28vh 0 2px rgba(255, 255, 255, 0.7), 65vw 27vh 0 1px rgba(255, 255, 255, 0.7), 75vw 22vh 0 1px rgba(255, 255, 255, 0.7), 88vw 43vh 0 1px rgba(255, 255, 255, 0.7), 40vw 46vh 0 1px rgba(255, 255, 255, 0.7), 82vw 35vh 0 2px rgba(255, 255, 255, 0.7), 20vw 47vh 0 1px rgba(255, 255, 255, 0.7), 54vw 47vh 0 2px rgba(255, 255, 255, 0.7), 40vw 47vh 0 2px rgba(255, 255, 255, 0.7), 53vw 23vh 0 1px rgba(255, 255, 255, 0.7), 37vw 5vh 0 1px rgba(255, 255, 255, 0.7), 18vw 10vh 0 2px rgba(255, 255, 255, 0.7), 76vw 44vh 0 2px rgba(255, 255, 255, 0.7), 89vw 41vh 0 1px rgba(255, 255, 255, 0.7), 6vw 37vh 0 1px rgba(255, 255, 255, 0.7), 75vw 9vh 0 1px rgba(255, 255, 255, 0.7), 76vw 36vh 0 1px rgba(255, 255, 255, 0.7), 15vw 19vh 0 1px rgba(255, 255, 255, 0.7), 83vw 4vh 0 1px rgba(255, 255, 255, 0.7), 87vw 38vh 0 2px rgba(255, 255, 255, 0.7), 4vw 15vh 0 0 rgba(255, 255, 255, 0.9);
 }
 
 body {
@@ -112,7 +112,6 @@ a {
 .auroral-info {
   position: absolute;
   width: 100%;
-  margin-top: .5em;
   padding: 0 2em;
   text-align: center;
   z-index: 10;
@@ -128,6 +127,41 @@ footer {
   padding: 0 2em;
   text-align: center;
   z-index: 10;
+}
+
+/* Octocat styles https://github.com/tholman/github-corners */
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(-25deg);
+  }
+  40% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(-25deg);
+  }
+  80% {
+    transform: rotate(10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@media (max-width: 500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
 }
 
 .filters-container {
