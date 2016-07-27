@@ -3,14 +3,36 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Animated background gradients with pure CSS</title>
+  <title>Auroral - Animated background gradients with pure CSS</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="css/auroral.css"/>
 </head>
 
 <body>
+  <div class="auroral-info">
+    <h1> Auroral - animated gradient backgrounds with pure CSS </h1>
+    <fieldset class="filters-container">
+      <input type="radio" rel="auroral-northern" id="northern" name="filter"/>
+      <label class="single-filter" for="northern"> Northern</label>
+
+      <input type="radio" rel="auroral-agrabah" id="agrabah" name="filter" />
+      <label class="single-filter" for="agrabah">Agrabah</label>
+    </fieldset>
+  </div>
   <div class="container">
-    <div class="auroral-northern"></div>
+    <div class="js-auroral auroral-agrabah"></div>
+    <div class="js-auroral auroral-northern"></div>
     <div class="auroral-stars"></div>
   </div>
+  <footer role="contentinfo">
+    <p>
+      From <a href="http://lunarlogic.io">Lunar Logic</a> with &#9825
+    </p>
+    <p>
+      Questions? <a href="https://twitter.com/szynszyliszys" target="_blank">Ping @szynszyliszys</a>.
+    </p>
+  </footer>
+  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="js/index.js"></script>
 </body>
 </html>
