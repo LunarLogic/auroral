@@ -1,6 +1,6 @@
 .auroral-agrabah  {
   @include auroral-container();
-  @include auroral-animation();
+  @include auroral-animation(aura, 2s);
   background: linear-gradient( -20deg, rgba(26, 0, 192, 0.4) 40%, rgba(215, 0, 67, 0.4)),
               linear-gradient( 60deg, rgba(26, 0, 192, 1) 10%, rgba(215, 0, 67, 1));
 }

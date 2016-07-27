@@ -1,4 +1,4 @@
-@mixin auroral-animation($name: aura, $time: 2s) {
+@mixin auroral-animation($name, $time) {
   animation-name: $name;
   animation-duration: $time;
   animation-timing-function: linear;
