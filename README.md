@@ -4,7 +4,7 @@ Auroral is a collection of animated background gradients, that can be used almos
 
 # Demo
 
-Demo will be here shortly
+You can test all effects on the [Auroral demo page](https://lunarlogic.github.io/auroral/).
 
 #How to use
 
@@ -60,7 +60,10 @@ If you know how to use [Sass](http://sass-lang.com/) you can play with the ***$s
 Currently available backgrounds (class names to be used in your container):
 
   - auroral-northern (Northern Lights style),
-  - auroral-agrabah (Inspired by the colors of the night sky in [Aladdin](http://www.imdb.com/title/tt0103639/) :D)
+  - auroral-northern-intense ([Intense Northern Lights](http://mynorthwest.com/wp-content/uploads/cms/15/1540/154044.jpg)),
+  - auroral-northern-dimmed ([Delicate Northern Lights](http://www.seattletimes.com/nation-world/photos-of-the-day-march-7-2016/)),
+  - auroral-northern-dusk (Delicate Northern Lights spin-off),
+  - auroral-agrabah (Inspired by the colors of the night sky in [Aladdin](http://www.imdb.com/title/tt0103639/) :D).
 
 ## License
 
