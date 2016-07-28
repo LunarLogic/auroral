@@ -7,7 +7,6 @@
 }
 
 @keyframes aura {
-
   0% {
     transform: rotate(20deg);
   }
@@ -25,7 +24,7 @@
   }
 
   80% {
-   transform: translateY(-10px) rotate(16deg);
+    transform: translateY(-10px) rotate(16deg);
   }
 
   100% {
@@ -52,7 +51,7 @@
   }
 
   85% {
-    transform: translate(10%, 3%) rotate(15deg);
+    transform: translate(6%, 3%) rotate(12deg);
   }
 
   100% {
