@@ -49,6 +49,7 @@ What is a night sky without the stars? Add them by appending an element with the
 ```html
   <section class="your-container">
     <div class="auroral-northern"></div>
+    <div class="auroral-stars"></div>
   </section>
 ```
 
