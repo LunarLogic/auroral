@@ -18,11 +18,6 @@ body {
   position: absolute;
   left: -50%;
   top: -50%;
-  width: 250%;
-  min-width: 1500px;
+  width: 200%;
   height: 200%;
-
-  @media screen and (min-width: 768px) {
-    width: 200%;
-  }
 }
