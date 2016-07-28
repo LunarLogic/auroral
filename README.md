@@ -1,6 +1,6 @@
 # Auroral - Animated background gradients
 
-Auroral is a collection of animated background gradients, that can be used almost anywhere. They are built with pure CSS.
+Auroral is a collection of animated background gradients, that can be used almost anywhere. They are built with pure CSS. To learn how it works, [read the article](http://blog.lunarlogic.io/2016/let-your-website-cast-the-northern-lights-auroral/).
 
 # Demo
 
