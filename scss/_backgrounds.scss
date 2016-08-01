@@ -30,3 +30,10 @@
   background: linear-gradient(-35deg, rgba(145, 107, 99, .5) 15%, rgba(184, 186, 111, .5) 25%, transparent 60%),
               linear-gradient(10deg, rgba(145, 107, 99, 1) 9%, rgba(184, 186, 111, 1) 30%, rgba(237, 124, 148, 1) 45%, rgba(35, 82, 154, 1) 65%);
 }
+
+.auroral-northern-warm {
+  @include auroral-container();
+  @include auroral-animation(aura, 10s);
+  background: linear-gradient(5deg, transparent 70%,  rgba(218, 119, 18, 1) 95%),
+              linear-gradient(160deg, rgba(67, 44, 36, 1) 30%, rgba(217, 109, 125, 1) 62%, rgba(218, 119, 18, 1) 95%);
+}
