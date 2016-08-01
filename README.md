@@ -64,6 +64,7 @@ Currently available backgrounds (class names to be used in your container):
   - auroral-northern-intense ([Intense Northern Lights](http://mynorthwest.com/wp-content/uploads/cms/15/1540/154044.jpg)),
   - auroral-northern-dimmed ([Delicate Northern Lights](http://www.seattletimes.com/nation-world/photos-of-the-day-march-7-2016/)),
   - auroral-northern-dusk (Delicate Northern Lights spin-off),
+  - auroral-northern-warm ([Warm Northern Lights](http://cdn.images.express.co.uk/img/dynamic/151/590x/Northern-Lights-586620.jpg)),
   - auroral-agrabah (Inspired by the colors of the night sky in [Aladdin](http://www.imdb.com/title/tt0103639/) :D).
 
 ## License
