@@ -18,29 +18,18 @@
     </svg>
   </a>
     <h1> Auroral - animated gradient backgrounds</h1>
-    <fieldset class="filters-container">
-      <input type="radio" rel="auroral-northern" id="northern" name="filter"/>
-      <label class="single-filter" for="northern"> Northern</label>
-
-      <input type="radio" rel="auroral-northern-intense" id="northern-intense" name="filter"/>
-      <label class="single-filter" for="northern-intense"> Northern Intense</label>
-
-      <input type="radio" rel="auroral-northern-dimmed" id="northern-dimmed" name="filter"/>
-      <label class="single-filter" for="northern-dimmed"> Northern Dimmed</label>
-
-      <input type="radio" rel="auroral-northern-dusk" id="northern-dusk" name="filter"/>
-      <label class="single-filter" for="northern-dusk"> Northern Dusk</label>
-
-      <input type="radio" rel="auroral-agrabah" id="agrabah" name="filter" />
-      <label class="single-filter" for="agrabah">Agrabah</label>
-    </fieldset>
+    <a href="#northern" class="filter-link"> Northern</a>
+    <a href="#northern-intense" class="filter-link"> Northern Intense</a>
+    <a href="#northern-dimmed" class="filter-link"> Northern Dimmed</a>
+    <a href="#northern-dusk" class="filter-link"> Northern Dusk</a>
+    <a href="#agrabah" class="filter-link"> Agrabah</a>
   </div>
   <div class="container">
-    <div class="js-auroral auroral-northern-intense"></div>
-    <div class="js-auroral auroral-northern-dimmed"></div>
-    <div class="js-auroral auroral-northern-dusk"></div>
-    <div class="js-auroral auroral-agrabah"></div>
-    <div class="js-auroral auroral-northern"></div>
+    <div id="northern" class="auroral auroral-northern"></div>
+    <div id="northern-intense" class="auroral auroral-northern-intense"></div>
+    <div id="northern-dimmed" class="auroral auroral-northern-dimmed"></div>
+    <div id="northern-dusk" class="auroral auroral-northern-dusk"></div>
+    <div id="agrabah" class="auroral auroral-agrabah"></div>
     <div class="auroral-stars"></div>
   </div>
   <footer role="contentinfo">
@@ -51,7 +40,5 @@
       Questions? <a href="https://twitter.com/szynszyliszys" target="_blank">Ping @szynszyliszys</a>.
     </p>
   </footer>
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="js/index.js"></script>
 </body>
 </html>

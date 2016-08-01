@@ -10,7 +10,7 @@ $filters-color: white;
   }
 }
 
-label {
+.filter-link {
   display: inline-block;
   margin-right: .25em;
   margin-bottom: .5em;
@@ -23,24 +23,21 @@ label {
   border: 2px solid white;
   cursor: pointer;
   opacity: .7;
+  text-decoration: none;
 
   &:hover {
     border: 2px solid $filters-color;
   }
 }
 
-input[type="radio"] {
+.auroral.auroral-northern {
+  opacity: 1;
+}
+
+.auroral {
   opacity: 0;
-  width: 0;
-  height: 0;
-}
 
-input[type="radio"]:focus + label {
-  border: 2px solid $filters-color;
-}
-
-input[type="radio"]:checked + label {
-  background-color: $filters-color;
-  border: 2px solid $filters-color;
-  color: black;
+  &:target {
+    opacity: 1;
+  }
 }
