@@ -8,7 +8,7 @@ var runSequence = require('run-sequence');
 gulp.task('output-css', function() {
   return gulp.src('scss/*.scss')
   .pipe(sass({outputStyle: 'expanded'}))
-  .pipe(autoprefixer('last 2 versions'))
+  .pipe(autoprefixer())
   .pipe(rename({
     dirname: 'css'
   }))

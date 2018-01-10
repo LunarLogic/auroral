@@ -1,6 +1,6 @@
 {
   "name": "auroral",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auroral is a set of beautiful animated gradients, that resemble northern lights. Made with pure css.",
   "main": "./css/auroral.css",
   "author": "Anna Migas <amjmigas@gmail.com>",
